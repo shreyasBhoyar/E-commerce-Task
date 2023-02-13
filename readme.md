@@ -24,5 +24,5 @@ Data required for each product(model) -
 
 ```
 
-Live link
+Live link : https://shreyasbhoyar.github.io/E-commerce-Task/
 
