@@ -1,0 +1,22 @@
+
+.controlContainer{
+    padding: 10px;
+    position: relative;
+    background-color: #fff;
+    margin: 10px;
+}
+/* p{
+    width: 33%;
+} */
+
+.navigator{
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+    /* border: gray; */
+    /* background-color: #E8562A; */
+    /* color: #fff; */
+    cursor: pointer;
+    font-weight: bold;
+}
